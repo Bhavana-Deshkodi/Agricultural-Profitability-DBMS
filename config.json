@@ -1,0 +1,7 @@
+{
+    "params":
+    {
+        "local_uri" : "mysql://root:@localhost/agricultural_profitability",
+        "crnt_usr" : ""
+    }
+}
